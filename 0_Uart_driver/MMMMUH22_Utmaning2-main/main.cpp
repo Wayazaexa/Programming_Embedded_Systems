@@ -1,8 +1,5 @@
 #include "led.hh"
 
-Led_Type led1;
-Led_Type led2;
-
 int main(void)
 {
 
